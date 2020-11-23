@@ -1,4 +1,4 @@
-# Overlap Save CUDA
+# Overlap-save CUDA
 
 
 #### Technologies
