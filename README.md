@@ -17,7 +17,7 @@ Project used to test capabilities of CUDA. This program compares speed of convol
 https://developer.nvidia.com/cuda-10.1-download-archive-update2?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal 
 - Prepare Samples.csv file that contain samples of (audio) signal (put each channel in separate column, and set delimiter as comma (,)) 
 - Place Samples.csv file in overlap_save_cuda\overlap_save_cuda\ catalogue
-- Set parameters in "DANE DO EDYCJI" section
+- Set parameters in "DANE DO EDYCJI" section in overlap_save_cuda\overlap_save_cuda\kernel.cu
 
 
 #### Run
